@@ -1,5 +1,4 @@
 
-<p  align="center"><img  src="preview/qrcapital_logo.png"  alt="QR-LOGO"  width="100"  height="100"></p>
 <h1  align="center">GunBound Image Creator</h1>
 <div  align="center">
 A simple C# Program to edit gunbound .img files

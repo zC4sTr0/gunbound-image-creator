@@ -6,10 +6,6 @@ A simple C# Program to edit gunbound .img files
 
 </div>
 
-<div align="center">
-<sub>Quick links for interviewers:</sub>
-</div>
-
 <div  align="center"><sub>This program was built with ❤︎ by <a  href="https://github.com/zC4sTr0">Gabriel Castro</a></sub></div>
 
 # Preview
